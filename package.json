@@ -1,0 +1,28 @@
+{
+  "name": "yutang",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "ts-node index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCharante/yutang.git"
+  },
+  "author": "",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/JCharante/yutang/issues"
+  },
+  "homepage": "https://github.com/JCharante/yutang#readme",
+  "dependencies": {
+    "@types/node": "^14.0.13",
+    "@types/qs": "^6.9.3",
+    "axios": "^0.19.2",
+    "qs": "^6.9.4",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
